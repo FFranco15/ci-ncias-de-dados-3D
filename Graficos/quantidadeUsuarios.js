@@ -10,7 +10,6 @@ async function quantidadeUsuarios() {
             x: nomeDasRedes,
             y: quantidadeUsuarios,
             type: 'bar'
-
         }
     ]
         const grafico = document.createElement('div')
